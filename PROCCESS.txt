@@ -1,0 +1,6 @@
+*Agregar EXTENSION
+*Agregar CARPETAS
+*Ignorar Extensiones  e Carpetas
+*Agregar Ruta de movimiento de archivos
+
+*CHECKBOX PARA EXTENSIONES DE ARCHVOS

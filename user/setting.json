@@ -1,0 +1,7 @@
+{
+  "types_files": [
+    { "IMAGENES": ["PNG", "JPG"], "ESTADO": false },
+    { "DOCUMENTOS": ["TEXT", "DOC"], "ESTADO": false },
+    { "HTML": ["PUUG", "EJS"], "ESTADO": false }
+  ]
+}
